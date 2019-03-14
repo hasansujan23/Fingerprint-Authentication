@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <html lang="en">
 <body style="padding:0px;margin:0px;">
 <div style="background: #0c2635;">
@@ -22,6 +21,3 @@
 </div>
 </body>
 </html>
-=======
-# Improve Data Security Using Fingerprint Authentication and AES Algorithm
->>>>>>> 1466d2d4c5e9113dc204d0d0dd27eabdd95ce8c3
