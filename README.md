@@ -5,7 +5,7 @@
 </div>
 <div style="width: 1160px;margin:0 auto;padding: 15px;">
 <div style="padding: 10px;border-left: 4px solid #f0ad4e;border-radius: 3px;margin-top: 10px;">
-    <h3>Access modifier:</h3>
+    
     <p style="font-size: 18px;text-align: justify;">Privacy and security of data is highly challenging. To ensure privacy and security of data-at-rest in data storage, we have proposed an effective approach to ensure data security using fingerprint recognition as biometric verification and AES algorithm as a trustworthy encryption system. The main objective of this project is to prevent data access from data storage centers by unauthorized users.</p>
     <p style="font-size: 18px;text-align: justify;">There are three phases in our project:</p>
     <ul>
